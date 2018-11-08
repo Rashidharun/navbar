@@ -1,0 +1,13 @@
+.banner{
+	background-image:url(../images/home.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat; 
+}
+.slider{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding: 10px;
+	background-color: rgba(1,1,1,.7);
+	color: white;
+}
